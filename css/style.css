@@ -2068,11 +2068,11 @@ button.bg-dark:focus {
 
 body {
   font-family: "Work Sans", Arial, sans-serif;
-  background: #fff;
+  background: #fffbec;
   font-size: 16px;
   line-height: 1.8;
   font-weight: 400;
-  color: #999999;
+  color: #29230a;
 }
 
 a {
