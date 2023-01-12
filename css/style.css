@@ -70,9 +70,9 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #29230a;
   text-align: left;
-  background-color: #fff;
+  background-color: #fffdfa;
 }
 
 [tabindex="-1"]:focus {
@@ -2775,7 +2775,7 @@ h5,
 .ftco-services .services-wrap .text div {
   width: 100%;
   padding: 15px 20px;
-  border: 1px solid #fffdf4;
+  border: 1px solid #fff4c1;
 }
 .ftco-services .services-wrap .text .btn-custom {
   width: calc(100% - 100px);
