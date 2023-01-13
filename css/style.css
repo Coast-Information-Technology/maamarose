@@ -156,6 +156,7 @@ sup {
 .logo {
   max-width: 4rem;
   max-height: auto;
+  padding-bottom: 1rem;
 }
 
 a {
@@ -3217,7 +3218,7 @@ h5,
 }
 
 .bg-light {
-  background: #f7f5f6 !important;
+  background: #fffbec !important;
 }
 
 .btn {
