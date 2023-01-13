@@ -156,7 +156,8 @@ sup {
 .logo {
   max-width: 4rem;
   max-height: auto;
-  padding-bottom: 1rem;
+  padding-block-end: 1rem;
+  padding-inline-end: 0.5rem;
 }
 
 a {
